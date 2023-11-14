@@ -20,7 +20,7 @@
 <br>
 
 <!-- contribution snake -->
-  ![animation](https://i.imgur.com/hDOfuOx.mp4)
+  ![animation]([https://i.imgur.com/hDOfuOx.mp4](https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e479dcp8s8ewm6691tb14ystezivppsale8mfzklmjy&ep=v1_gifs_search&rid=giphy.gif&ct=g)https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e479dcp8s8ewm6691tb14ystezivppsale8mfzklmjy&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ### Languages & Tools 🧰
 
