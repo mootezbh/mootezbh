@@ -20,7 +20,7 @@
 <br>
 
 <!-- contribution snake -->
-  ![Snake animation](https://github.com/mootezbh/mootezbh/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/mootezbh/mootezbh/blob/output/github-contribution-grid-snake.svg)
 
 ### Languages & Tools 🧰
 
