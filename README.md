@@ -25,6 +25,6 @@
 ### Languages & Tools 🧰
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,linux,git,github,neovim)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,node,linux,git,github,neovim)]()
 
 ### 
