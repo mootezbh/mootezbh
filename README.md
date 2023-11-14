@@ -20,7 +20,10 @@
 <br>
 
 <!-- contribution snake -->
+<p align="center">
   ![animation](https://github.com/mootezbh/mootezbh/blob/output/hax.gif)
+</p>
+  
 
 ### Languages & Tools 🧰
 
