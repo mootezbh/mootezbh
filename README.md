@@ -21,7 +21,7 @@
 
 <!-- contribution snake -->
 <p align="center">
-  ![animation](https://github.com/mootezbh/mootezbh/blob/output/hax.gif)
+  <img src="https://github.com/mootezbh/mootezbh/blob/output/hax.gif" />
 </p>
   
 
