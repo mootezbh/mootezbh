@@ -28,6 +28,6 @@
 ### Languages & Tools 🧰
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,linux,git,github,vscode)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,linux,git,github,vscode)]()
 
 ### 
